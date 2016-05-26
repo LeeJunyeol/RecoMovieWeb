@@ -1,0 +1,33 @@
+@CHARSET "EUC-KR";
+
+.form-group{
+	margin-bottom: 5px;
+}
+
+.col-xs-6{
+	padding-right: 10px;
+}
+
+.col-xs-11{
+	padding-left: 15px;
+	padding-right: 0px;	
+}
+
+#memberlogin{
+	border-color: #6FB0E8;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+	background:  #6FB0E8;
+	
+}
+
+#nomemberlogin{
+	border-color: #6FB0E8;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+	background:  #6FB0E8;
+}

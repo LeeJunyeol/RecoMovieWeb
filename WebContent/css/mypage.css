@@ -1,0 +1,21 @@
+@CHARSET "EUC-KR";   
+ label {
+	color: #6FB0E8;
+	font-size: 16px;
+}
+
+.innernav ul {
+	padding-left: 0;
+}
+
+ul {
+	list-style: none;
+	margin-top: 20px;
+}
+
+.innerli {
+	color: #6FB0E8;
+	font-size: 16px;
+	display: inline;
+	margin: 0 20px 0 20px;
+}

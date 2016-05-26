@@ -1,0 +1,5 @@
+﻿tID	PW	NAME	SEX	BIRTH	ADDR	TEL	EMAIL
+tmp1	111	정찬호	남자	1989-12-11	서울	02-111-1111	chljy33@naver.com
+tmp2	111	이유나	여자	1989-12-11	서울	02-111-1111	chljy33@naver.com
+tmp3	111	제희정	여자	1989-12-11	서울	02-111-1111	chljy33@naver.com
+tmp4	111	김태중	남자	1989-12-11	서울	02-111-1111	chljy33@naver.com
