@@ -13,32 +13,32 @@
    <tr>
       <td align="middle">
 <figure>
-    <img src="./uploadFiles/1.jpg" width="80%">
-    <figcaption>초기화면</figcaption>
+    <img src="./uploadFiles/1.jpg" width="80%"><br>
+    <figcaption>박스오피스 </figcaption>
 </figure>
       </td>
    </tr>
    <tr>
       <td align="middle">
 <figure>
-    <img src="./uploadFiles/2.jpg" width="80%">
-    <figcaption>회원가입</figcaption>
+    <img src="./uploadFiles/2.jpg" width="80%"><br>
+    <figcaption>영화 정보 보기</figcaption>
 </figure>
       </td>
    </tr>
    <tr>
       <td align="middle">
 <figure>
-    <img src="./uploadFiles/3.jpg" width="80%">
-    <figcaption>사업자 등록</figcaption>
+    <img src="./uploadFiles/3.jpg" width="80%"><br>
+    <figcaption>영화 예매</figcaption>
 </figure>
       </td>
    </tr>
    <tr>
       <td align="middle">
 <figure>
-    <img src="./uploadFiles/4.jpg" width="80%">
-    <figcaption>사업자 메인</figcaption>
+    <img src="./uploadFiles/4.jpg" width="80%"><br>
+    <figcaption>좌석 선택</figcaption>
 </figure>
       </td>
    </tr>
