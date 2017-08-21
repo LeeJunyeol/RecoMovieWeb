@@ -13,7 +13,7 @@
    <tr>
       <td align="middle">
 <figure>
-    <img src="./uploadFiles/1.png" width="100%">
+    <img src="./uploadFiles/1.jpg" width="80%">
     <figcaption>초기화면</figcaption>
 </figure>
       </td>
@@ -21,7 +21,7 @@
    <tr>
       <td align="middle">
 <figure>
-    <img src="./uploadFiles/2.png" width="100%">
+    <img src="./uploadFiles/2.jpg" width="80%">
     <figcaption>회원가입</figcaption>
 </figure>
       </td>
@@ -29,7 +29,7 @@
    <tr>
       <td align="middle">
 <figure>
-    <img src="./uploadFiles/3.png" width="100%">
+    <img src="./uploadFiles/3.jpg" width="80%">
     <figcaption>사업자 등록</figcaption>
 </figure>
       </td>
@@ -37,7 +37,7 @@
    <tr>
       <td align="middle">
 <figure>
-    <img src="./uploadFiles/4.png" width="100%">
+    <img src="./uploadFiles/4.jpg" width="80%">
     <figcaption>사업자 메인</figcaption>
 </figure>
       </td>
